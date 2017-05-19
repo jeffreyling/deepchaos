@@ -1,0 +1,5 @@
+*.swp
+*.pth.tar
+*.pyc
+logs/
+logs_resnet/
